@@ -1,6 +1,3 @@
-# Configuration sensible (mots de passe BDD)
-/config/Database.php
-
 # Uploads d'images (on ne versionne pas les photos de test)
 /public/uploads.*
 
