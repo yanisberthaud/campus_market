@@ -5,7 +5,7 @@ USE campus_market;
 -- 1. Categories table
 CREATE TABLE categorie (
     id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(100) NOT NULL;
+    name VARCHAR(100) NOT NULL
 );
 
 -- 2. Users table

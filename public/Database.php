@@ -4,7 +4,7 @@ class Database {
     private static $instance = null;
     private $connection;
 
-    private $host = 'localhost';
+    private $host = 'sql100.infinityfree.com';
     private $db_name = 'campus_market';
     private $username = 'root';
     private $password = ''; 
